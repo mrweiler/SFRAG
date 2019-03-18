@@ -1,17 +1,14 @@
-Presentation1
+Does the culture's orientation affect the choice between Family or CBT therapy?
 ========================================================
 author: Sotiria Efraimia Fragkiadaki
-date: 14/3/2019
+date: 18/3/2019
 autosize: true
 
 Introduction
 ========================================================
 
-For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
-
 - Depression: Family therapy & Cognitive Behavioural therapy.
-- Individual-oriented and group-orieneted cultures
-- Does the culture's orientation affect the choice between Family or CBT therapy?
+- Individual-oriented and group-orieneted cultures  
 
 Methods
 ========================================================
