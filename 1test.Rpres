@@ -29,12 +29,9 @@ Measure & Procedure:
 -Interview about what type of therapy (Family, CBT) would the participants choose.
 
 
-```
-
 Proposed Analyses
 ========================================================
 
 Google trends to find which type of therpay is ore popular in which country/culture.
 
 Pearson correlation coefficient to find if and how culture and selection of therapy are correlated.
-```
